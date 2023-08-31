@@ -1,2 +1,8 @@
 # Geoera_Graduation_Project
- Graduation_Project_of_University
+ Graduation Project of University
+
+ GEOERA / Graduation Project
+In this study, landslide activities in the Alkumru dam lake in the Southeastern Anatolia Region of Turkey were analyzed using Sentinel-1 datasets. The SAR data was preferred because it allows us to observe the deformation of the region on a weekly basis. 4-year data were studied between 16/01/2019 and 13/01/2023. For deformation analysis, the SBAS method was used in the LiCSBAS application on Linux operating system. The time series was imported. Then in the section where we make predictions for the future, we used machine learning. The LSTM model was used in the machine learning section. LSTM networks are well suited for classification, processing, and forecasts based on time series data. Using the "" and "imdates" data in the ".h5" file, our model was trained and its outputs saved as GeoTIFF. Thus, the results were obtained visually. The estimated geoTIFFs we obtained were compared with the available data. The difference between them was examined. The reason why we chose this methodology is to achieve deformations with centimeter precision. The deformation map of the 4-year change was drawn. This map was examined in both 2D and 3D. According to the results we obtained from LSTM, we observed that there was not much change. Acceptable (71.29 percent in accuracy) prediction results were obtained. The aim of the study is to demonstrate the feasibility and usability of datasets and technique for high-temporal scale and high-spatial resolution landslide assessment and monitoring activities, which are crucial for the maintenance of dams.
+
+
+ 
